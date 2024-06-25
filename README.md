@@ -1,8 +1,7 @@
-# 🐟 DGIST Team Project
+# 🐟 DGIST Project
 
-In this project, we will use raspbot on a Raspberry Pi 4 to perform tasks such as line tracking, QR code recognition, and control device design in C, C++.
+Efficient CNN architecture using C.
 
 ## Project Description
 Repository for systems programming course assignments
 
-## Code : Coming Soon..
